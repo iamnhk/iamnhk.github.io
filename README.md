@@ -1,22 +1,4 @@
 
-# Vitae
-
-[![Build Status](https://secure.travis-ci.org/jekyller/vitae.png?branch=gh-pages)](http://travis-ci.org/jekyller/vitae)
-
-Personal homepage (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume).
-Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
-hosted in [Github pages](https://pages.github.com/).
-
-
-## View the live demo
-
-[Vitae Live Demo](https://jekyller.github.io/vitae)
-
-
-## Screenshots
-
-![resume page](https://raw.githubusercontent.com/jekyller/vitae/gh-pages/assets/images/vitae_screen.png)
-
 
 ## How to use it
 
@@ -29,12 +11,6 @@ I have tested this install with Ruby v2.4.2p198 (Mac OS RVM) and Jekyll v3.6.2. 
 
 Feel free pull-request your patches and fixes.
 
-
-## Thanks
-
-A lot of the work had been already done by the Joao. Many thanks to him :smile:
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
 
 
 ## Copyright & License

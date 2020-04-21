@@ -13,23 +13,23 @@ author: Fábio Madeira
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://jekyller.github.io/sustain
+baseurl: /
+title: Nazmul's Resume
+name: Md. Nazmul Haque Khan
+email: nhk985@gmail.com
+email_full: mailto:nhk985@gmail.com
+website: github.io/iamnhk
+website_full: https://iamnhk.github.io/
 github: trending
 twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
+tel: 0458008918
+tel_full: tel:+358458008918
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: Teuvo Pakkalantie 
+  postcode: 00400
+  city: Helsinki
+  country: Finland
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
