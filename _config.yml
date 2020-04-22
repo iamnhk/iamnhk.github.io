@@ -27,7 +27,7 @@ tel_full: tel:+358458008918
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
   street: Teuvo Pakkalantie 
-  postcode: '00400'
+  postcode: "00400"
   city: Helsinki
   country: Finland
 google_analytics: UA-69300817-1
